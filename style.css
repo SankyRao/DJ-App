@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+}
+#volimg
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speedimg
+{
+    width: 200px;
+    border-radius: 100px;
+}
+canvas
+{
+    border: 10px ridge rgb(218, 215, 215);
+    margin-top: 100px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_volume
+{
+    float: right;
+}
+
